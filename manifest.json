@@ -1,7 +1,7 @@
 {
     "name": "Chama Alguem",
     "short_name": "CA",
-    "start_url": "/Chama-Alguem",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
